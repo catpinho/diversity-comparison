@@ -89,3 +89,8 @@ I have not added the following features as optional to simplify the script, but 
 Groups with a sample size of 0 will not appear in this table since DNAsp does not take them into account. Groups with sample size s will have a “-“ instead of a value.
 Currently only part of the statistics present in the DNAsp output appears in the final output. If you want to add or remove columns to the table, you can edit the script and change the number of the columns included in line 27. Note that python starts counting from 0 (the first column is 0, the second is 1, etc.).
 
+4. CITATION
+This pipeline was first described in:
+Salvi D, Harris DJ, Kaliontzopoulou A, Carretero MA, Pinho C (2013) Persistence across Pleistocene Ice Ages in Mediterranean and extra-Mediterranean refugia: phylogeographic insights from the common wall lizard. BMC Evolutionary Biology 2013, 13:147.
+
+Please cite it accordingly.
